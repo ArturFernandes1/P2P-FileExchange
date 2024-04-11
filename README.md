@@ -44,8 +44,6 @@ python main.py
 Na interface do usuário, você poderá escolher se deseja atuar como servidor (host) ou cliente (peer).
 Como servidor, você irá disponibilizar arquivos para download. Como cliente, você poderá conectar-se a um servidor e baixar os arquivos disponíveis.
 
-### Configurações
-- **IP e Porta**: É necessário definir o endereço IP e a porta para estabelecer a conexão P2P.
-- **Diretório de Arquivos**: Especifique o diretório de onde os arquivos serão compartilhados.
+
 
 
